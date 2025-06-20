@@ -43,7 +43,7 @@ streamlit run app.py
 
 📂 Dataset
 
-Use the classic Dogs vs Cats dataset (1000 images per class is enough).
+This project uses **1005 images each** of cats and dogs, organized in:
 
 Folder structure:
 
